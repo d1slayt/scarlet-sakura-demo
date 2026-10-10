@@ -1,0 +1,35 @@
+3:"$Sreact.fragment"
+4:"/scarlet-sakura-demo/_next/static/chunks/0umf92h1sb77c.js"
+5:"/scarlet-sakura-demo/_next/static/chunks/39jdarevgwdo4.js"
+6:"/scarlet-sakura-demo/_next/static/chunks/320czxbipj_l5.js"
+7:"/scarlet-sakura-demo/_next/static/chunks/1p_619s1cczgo.js"
+8:"/scarlet-sakura-demo/_next/static/chunks/0sv-8o3znj4tv.js"
+9:I[39756,["$4","$5","$6","$7","$8"],"default"]
+a:I[37457,["$4","$5","$6","$7","$8"],"default"]
+f:"/scarlet-sakura-demo/_next/static/chunks/2golqu22ffk32.js"
+10:"/scarlet-sakura-demo/_next/static/chunks/3vdems4ucu4id.js"
+11:"/scarlet-sakura-demo/_next/static/chunks/0wp-4u_tvqulv.js"
+12:"/scarlet-sakura-demo/_next/static/chunks/3lzrobazk4_ze.js"
+13:I[5014,["$4","$5","$6","$7","$8","$f","$10","$11","$12"],"default"]
+14:I[97367,["$4","$5","$6","$7","$8"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$4","$5","$6","$7","$8"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$4","$5","$6","$7","$8"],"$1a"]
+1c:I[27201,["$4","$5","$6","$7","$8"],"IconMark"]
+c:X
+c:C
+d:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"mx-auto max-w-7xl px-4 pt-10 sm:px-6 sm:pt-14","children":[["$","div",null,{"className":"mb-10 flex flex-wrap items-end justify-between gap-6","children":[["$","div",null,{"className":"max-w-2xl","children":[["$","h1",null,{"className":"font-display text-3xl sm:text-4xl","children":"Контакты"}],null]}],"$undefined"]}],["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","section",null,{"aria-label":"Связь","className":"space-y-6","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","$L13",null,{"icon":{"name":"map-pin","size":24,"node":[["path",{"d":"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0","key":"1r0f0z"}],["circle",{"cx":"12","cy":"10","r":"3","key":"ilqhr7"}]]},"className":"mt-1 size-5 shrink-0 text-beni-ink","aria-hidden":true}],["$","div",null,{"children":[["$","p",null,{"className":"text-lg","children":["Волгоград",""]}],["$","p",null,{"className":"text-muted-foreground","children":"Точный адрес опубликуем перед открытием"}]]}]]}],["$","p",null,{"className":"rounded-[14px] border border-dashed px-4 py-3 text-sm text-muted-foreground","children":"Телефон и мессенджеры клуба опубликуем перед открытием."}]]}],["$","section",null,{"aria-labelledby":"hours","children":[["$","h2",null,{"id":"hours","className":"font-display text-2xl","children":"График работы"}],["$","div",null,{"className":"mt-4","children":["$","div",null,{"className":"space-y-4","children":[["$","p",null,{"className":"text-lg","children":["Ежедневно, ","круглосуточно"]}],null]}]}],["$","p",null,{"className":"mt-4 text-sm text-muted-foreground","children":"Время указано по Волгограду."}]]}]]}]]}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$d"}}]]
+2:[["children",{"s":"contacts","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$d"},"c":"$Qe"}]]
+1:[["children",{"s":"(site)","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f4f1","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#15171c","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Контакты — Scarlet Sakura"}],["$","meta","1",{"name":"description","content":"Адрес, телефон и график работы Scarlet Sakura в Волгограде."}],["$","meta","2",{"name":"application-name","content":"Scarlet Sakura"}],["$","link","3",{"rel":"icon","href":"/scarlet-sakura-demo/icon.svg?icon.1n3n9sx3j78f7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$d"}},"a":"$@1e","u":"$@1f","b":"cWk3gTSUbQTdimxvBAjZv"}
+16:null
+1f:true
+d:300
+d:C
+1e:0
+b:"$undefined"
+1d:"$undefined"
+17:"$undefined"

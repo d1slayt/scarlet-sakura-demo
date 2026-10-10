@@ -1,0 +1,47 @@
+3:"$Sreact.fragment"
+4:"/scarlet-sakura-demo/_next/static/chunks/0umf92h1sb77c.js"
+5:"/scarlet-sakura-demo/_next/static/chunks/39jdarevgwdo4.js"
+6:"/scarlet-sakura-demo/_next/static/chunks/320czxbipj_l5.js"
+7:"/scarlet-sakura-demo/_next/static/chunks/1p_619s1cczgo.js"
+8:"/scarlet-sakura-demo/_next/static/chunks/0sv-8o3znj4tv.js"
+9:"/scarlet-sakura-demo/_next/static/chunks/2golqu22ffk32.js"
+a:"/scarlet-sakura-demo/_next/static/chunks/3vdems4ucu4id.js"
+b:"/scarlet-sakura-demo/_next/static/chunks/0wp-4u_tvqulv.js"
+c:"/scarlet-sakura-demo/_next/static/chunks/3lzrobazk4_ze.js"
+d:"/scarlet-sakura-demo/_next/static/chunks/2zj76m5z6vu62.js"
+e:I[49183,["$4","$5","$6","$7","$8","$9","$a","$b","$c","$d"],"AccountNav"]
+f:I[39756,["$4","$5","$6","$7","$8"],"default"]
+10:I[37457,["$4","$5","$6","$7","$8"],"default"]
+17:"/scarlet-sakura-demo/_next/static/chunks/2ngenqugj-cgc.js"
+18:I[13426,["$4","$5","$6","$7","$8","$9","$a","$b","$c","$d","$17"],"RouletteWheel"]
+21:"ViewportBoundary"
+22:I[97367,["$4","$5","$6","$7","$8"],"$21"]
+23:"MetadataBoundary"
+24:I[97367,["$4","$5","$6","$7","$8"],"$23"]
+25:"$Sreact.suspense"
+26:I[27201,["$4","$5","$6","$7","$8"],"IconMark"]
+12:X
+15:X
+15:C
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"grid gap-10 lg:grid-cols-[minmax(0,1fr)_22rem]","children":[["$","section",null,{"aria-labelledby":"wheel","className":"rounded-[24px] bg-surface p-6 sm:p-10","children":[["$","h2",null,{"id":"wheel","className":"font-display text-2xl","children":"Колесо Сакуры"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"За каждый завершённый визит от трёх часов — один прокрут колеса."}],["$","p",null,{"className":"mt-4 text-sm","children":["Доступно прокрутов: ",["$","span",null,{"className":"font-display tabular","children":1}],null]}],["$","div",null,{"className":"mt-8","children":["$","$L18",null,{"prizes":[{"id":"prize_50","label":"50 баллов","probability":0.35},{"id":"prize_disc10","label":"−10%","probability":0.2},{"id":"prize_100","label":"100 баллов","probability":0.2},{"id":"prize_none","label":"Мимо","probability":0.1},{"id":"prize_30min","label":"30 минут","probability":0.1},{"id":"prize_300","label":"300 баллов","probability":0.05}],"ticketId":"demo-ticket"}]}]]}],["$","aside",null,{"className":"space-y-8","children":[["$","section",null,{"aria-labelledby":"odds","children":[["$","h2",null,{"id":"odds","className":"mb-3 text-xl font-medium","children":"Призы и вероятности"}],["$","ul",null,{"className":"divide-y rounded-[16px] bg-surface text-sm","children":[["$","li","prize_50",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"50 баллов"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["35,0","%"]}]]}],["$","li","prize_disc10",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"−10%"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["20,0","%"]}]]}],["$","li","prize_100",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"100 баллов"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["20,0","%"]}]]}],["$","li","prize_none",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"Мимо"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["10,0","%"]}]]}],["$","li","prize_30min",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"30 минут"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["10,0","%"]}]]}],["$","li","prize_300",{"className":"flex justify-between gap-3 px-4 py-2.5","children":[["$","span",null,{"children":"300 баллов"}],["$","span",null,{"className":"tabular text-muted-foreground","children":["5,0","%"]}]]}]]}]]}],["$","section",null,{"aria-labelledby":"terms","children":[["$","h2",null,{"id":"terms","className":"mb-3 text-xl font-medium","children":"Условия"}],["$","p",null,{"className":"mb-2 text-sm","children":["Право на прокрут — за завершённый визит от ","3 часа","."]}],["$","ul",null,{"className":"list-disc space-y-1.5 pl-5 text-sm text-muted-foreground","children":[["$","li","Право на прокрут выдаётся за бронь продолжительностью от 3 часов и становится доступным после завершения визита.",{"children":"Право на прокрут выдаётся за бронь продолжительностью от 3 часов и становится доступным после завершения визита."}],"$L19","$L1a","$L1b","$L1c"]}]]}],"$L1d"]}]]}],["$L1e"],"$L1f"]}],"p":"$@20","v":null,"s":"$12"}}]]
+13:[["children",{"s":"roulette","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"p":"$@14","v":"$15","s":"$12"},"c":"$Q16"}]]
+2:[["children",{"s":"account","h":64,"d":{"r":["$","$3","c",{"children":[[["$","script","script-0",{"src":"/scarlet-sakura-demo/_next/static/chunks/2zj76m5z6vu62.js","async":true}]],["$","div",null,{"className":"mx-auto max-w-5xl px-4 pt-10 sm:px-6 sm:pt-14","children":[["$","div",null,{"className":"flex flex-wrap items-end justify-between gap-4","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-muted-foreground","children":"Личный кабинет"}],["$","h1",null,{"className":"mt-1 font-display text-3xl sm:text-4xl","children":"Демо-гость"}]]}],["$","div",null,{"className":"rounded-[16px] bg-surface px-5 py-3 text-right","children":[["$","p",null,{"className":"text-xs text-muted-foreground","children":"Бонусный баланс"}],["$","p",null,{"className":"font-display text-2xl tabular","children":"172 балла"}]]}]]}],["$","$Le",null,{}],["$","div",null,{"className":"mt-8","children":["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]}]]}]]}],"p":"$@11","v":null,"s":"$12"},"c":"$Q13"}]]
+1:[["children",{"s":"(site)","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f4f1","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#15171c","media":"(prefers-color-scheme: dark)"}]]}],["$","$L24",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Бонусная рулетка — Scarlet Sakura"}],["$","meta","1",{"name":"description","content":"Компьютерный клуб Scarlet Sakura в Волгограде: выберите место на схеме зала и забронируйте ПК онлайн."}],["$","meta","2",{"name":"application-name","content":"Scarlet Sakura"}],["$","link","3",{"rel":"icon","href":"/scarlet-sakura-demo/icon.svg?icon.1n3n9sx3j78f7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L26","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@27","v":null,"s":"$12"}},"a":"$@28","u":"$@29","b":"cWk3gTSUbQTdimxvBAjZv"}
+2a:I[97367,["$4","$5","$6","$7","$8"],"OutletBoundary"]
+19:["$","li","Отменённые брони и неявки право на прокрут не дают.",{"children":"Отменённые брони и неявки право на прокрут не дают."}]
+1a:["$","li","Приз определяется сервером случайным образом в момент прокрута; вероятности указаны рядом с колесом.",{"children":"Приз определяется сервером случайным образом в момент прокрута; вероятности указаны рядом с колесом."}]
+1b:["$","li","Выигранные скидки и бесплатные минуты действуют 30 дней, баллы зачисляются сразу.",{"children":"Выигранные скидки и бесплатные минуты действуют 30 дней, баллы зачисляются сразу."}]
+1c:["$","li","Механика тестовая: до публичного запуска условия должны быть проверены на соответствие законодательству РФ.",{"children":"Механика тестовая: до публичного запуска условия должны быть проверены на соответствие законодательству РФ."}]
+1d:["$","section",null,{"aria-labelledby":"spins","children":[["$","h2",null,{"id":"spins","className":"mb-3 text-xl font-medium","children":"История прокрутов"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li","s1",{"className":"flex justify-between gap-3","children":[["$","span",null,{"children":"50 бонусных баллов"}],["$","span",null,{"className":"text-muted-foreground","children":"5 окт. 2026 г., 12:00"}]]}]]}]]}]
+1e:["$","script","script-0",{"src":"/scarlet-sakura-demo/_next/static/chunks/2ngenqugj-cgc.js","async":true}]
+1f:["$","$L2a",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+29:true
+12:300
+2b:null
+12:C
+28:0
+14:"$undefined"
+11:"$undefined"
+27:"$undefined"
+20:"$undefined"
